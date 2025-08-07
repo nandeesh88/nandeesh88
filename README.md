@@ -57,7 +57,7 @@
 |--------|-------------|
 | 🔗 [**Cloud‑Hosted AI Chatbot**](https://github.com/nandeesh88/Cloud-Sheet-Data-Chatbot) | Chatbot using Flask + Google Sheet API, hosted on AWS EC2 |
 | 🔗 [**CAPTCHA Authentication System**](https://github.com/nandeesh88/captcha-authentication-system) | Frontend form with JavaScript-based CAPTCHA validation |
-| 🔗 [**Social Media Performance Analytics**](https://github.com/nandeesh88/social-media-trends-analysis) | Engagement trend analysis using Python, Pandas, Power BI |
+| 🔗 [**Social Metrics Intelligence**](https://github.com/nandeesh88/social-media-trends-analysis) | Engagement trend analysis using Python, Pandas, Power BI |
 | 🔗 [**Zepto Sales & Operations Analysis**](https://github.com/nandeesh88/zepto-data-insights-sql) | SQL + Python insights from Zepto delivery datasets |
 | 🔗 [**HR Analytics Dashboard**](https://github.com/nandeesh88/HR-Anlytics-Dashboard) | Interactive HR data dashboard using Power BI |
 
