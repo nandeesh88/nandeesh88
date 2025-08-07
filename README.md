@@ -54,10 +54,11 @@
 | Project | Description |
 |--------|-------------|
 | 🔗 [**Cloud‑Hosted AI Chatbot**](https://github.com/nandeesh88/Cloud-Sheet-Data-Chatbot) | Chatbot using Flask + Google Sheet API, hosted on AWS EC2 |
+| 🔗 [**CAPTCHA Authentication System**](https://github.com/nandeesh88/captcha-authentication-system) | Frontend form with JavaScript-based CAPTCHA validation |
 | 🔗 [**Social Media Performance Analytics**](https://github.com/nandeesh88/social-media-trends-analysis) | Engagement trend analysis using Python, Pandas, Power BI |
 | 🔗 [**Zepto Sales & Operations Analysis**](https://github.com/nandeesh88/zepto-data-insights-sql) | SQL + Python insights from Zepto delivery datasets |
 | 🔗 [**HR Analytics Dashboard**](https://github.com/nandeesh88/HR-Anlytics-Dashboard) | Interactive HR data dashboard using Power BI |
-| 🔗 [**CAPTCHA Authentication System**](https://github.com/nandeesh88/captcha-authentication-system) | Frontend form with JavaScript-based CAPTCHA validation |
+
 
 ---
 
@@ -77,4 +78,5 @@
 🔗 [GitHub](https://github.com/nandeesh88) • [LinkedIn](https://www.linkedin.com/in/kuruba-nandeesh) • [Instagram](https://instagram.com/mr__nandu__gowda)
 
 --
-⭐ “Code, Deploy, Analyze — Repeat.”
+
+<p align="center">⭐ “Code, Deploy, Analyze — Repeat.”🚀</p>
