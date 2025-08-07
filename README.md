@@ -8,7 +8,7 @@
 🎓 Pursuing B.Tech
 🔍 Passionate about Data Analytics, Cloud Computing, and Full-Stack Development
 ⚙️ Skilled in architecting cloud-native solutions on AWS & GCP, deploying containerized applications, and designing insightful data dashboards 
-📍 Based in India | Open to opportunities in Analytics & Cloud DevOps
+📍 Based in Bangalore | Open to opportunities in Analytics & Cloud DevOps
 
 ---
 
