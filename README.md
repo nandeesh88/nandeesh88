@@ -1,13 +1,13 @@
 <h1 align="center">Hey there 👋, I'm Nandeesh Kuruba</h1>
-<h3 align="center">Turning raw data into insights | B.Tech Final Year | Cloud & Data Enthusiast</h3>
+<h3 align="center">Computer Scinece Student | Cloud & Data Enthusiast</h3>
 
 ---
 
 ## 💡 About Me
 
-🎓 Final Year B.Tech Student  
-🔍 Passionate about **Data Analytics**, **Cloud Computing**, and **Full-Stack Development**  
-🧠 Always learning, building, and optimizing real-world tech solutions  
+🎓 Pursuing B.Tech
+🔍 Passionate about Data Analytics, Cloud Computing, and Full-Stack Development
+⚙️ Skilled in architecting cloud-native solutions on AWS & GCP, deploying containerized applications, and designing insightful data dashboards 
 📍 Based in India | Open to opportunities in Analytics & Cloud DevOps
 
 ---
@@ -24,6 +24,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0077B6?style=for-the-badge&logoColor=white)
 
@@ -38,6 +39,7 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ---
 
@@ -74,6 +76,5 @@
 📱 **Phone**: +91 99022 63492  
 🔗 [GitHub](https://github.com/nandeesh88) • [LinkedIn](https://www.linkedin.com/in/kuruba-nandeesh) • [Instagram](https://instagram.com/mr__nandu__gowda)
 
----
-
-<p align="center">Thanks for visiting my profile 🙏<br/>Let’s build something impactful together 🚀</p>
+--
+⭐ “Code, Deploy, Analyze — Repeat.”
