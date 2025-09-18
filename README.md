@@ -68,11 +68,11 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" height="30px"/>
-  <img src="https://img.shields.io/badge/Repos-20-green?style=for-the-badge" height="30px"/>
-  <img src="https://img.shields.io/badge/Followers-50-orange?style=for-the-badge" height="30px"/>
-  <img src="https://img.shields.io/badge/Stars-100-yellow?style=for-the-badge" height="30px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nandeesh88&show_icons=true&theme=tokyonight&rank_icon=github" height="160px"/>
+  <img src="https://streak-stats.demolab.com?user=nandeesh88&theme=tokyonight" height="160px"/>
 </p>
+
+---
 
 
 ## 📫 Contact Me
