@@ -68,9 +68,10 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandeesh88&show_icons=true&theme=tokyonight&rank_icon=github" height="160px"/>
-  <img src="https://streak-stats.demolab.com?user=nandeesh88&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nandeesh88&show_icons=true&theme=tokyonight&count_private=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nandeesh88&theme=tokyonight" height="160px"/>
 </p>
+
 
 ---
 
