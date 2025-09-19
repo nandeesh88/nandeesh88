@@ -67,19 +67,23 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center" style="border:2px solid #444;padding:10px;border-radius:12px;">
+  
+  <!-- Total Commits & Repositories -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=nandeesh88
-    &show_icons=true
-    &count_private=true
-    &include_all_commits=true
-    &theme=tokyonight
-    &custom_title=Total%20Commits%20%7C%20Repositories%20%7C%20Longest%20Streak
-    &hide=prs,issues,contribs"
-    alt="Combined Stats"
-    height="170px"
+    src="https://github-readme-stats.vercel.app/api?username=nandeesh88&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues,contribs&theme=tokyonight"
+    alt="Commits & Repos"
+    height="150px"
   />
-</p>
+  
+  <!-- Longest Streak -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=nandeesh88&theme=tokyonight&hide_border=true"
+    alt="Longest Streak"
+    height="150px"
+  />
+
+</div>
 
 ---
 
