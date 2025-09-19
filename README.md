@@ -68,26 +68,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Overall GitHub Stats (includes commits & private counts) -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=nandeesh88&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"
-    alt="GitHub Stats"
-    height="160px"
+    src="https://github-readme-stats.vercel.app/api?username=nandeesh88
+    &show_icons=true
+    &count_private=true
+    &include_all_commits=true
+    &theme=tokyonight
+    &custom_title=Total%20Commits%20%7C%20Repositories%20%7C%20Longest%20Streak
+    &hide=prs,issues,contribs"
+    alt="Combined Stats"
+    height="170px"
   />
 </p>
-
-<p align="center">
-  <!-- Total Repositories / Contribution Stats -->
-  <img
-    src="https://github-contributor-stats.vercel.app/api?username=nandeesh88&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"
-    alt="Repository & Contribution Stats"
-    height="160px"
-  />
-</p>
-
 
 ---
-
 
 ## 📫 Contact Me
 
