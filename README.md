@@ -65,19 +65,17 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-<p align="center">
-  <!-- Overall GitHub Stats (commits + public repos) -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nandeesh88&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height="160px"/>
+<div align="center" style="border:2px solid #444;padding:10px;border-radius:12px;">
   
-  <!-- GitHub Streak (longest & current) -->
-  <img src="https://streak-stats.demolab.com?user=nandeesh88&theme=tokyonight" height="160px"/>
-  
-  <!-- Total Repositories / Contribution Stats -->
-  <img src="https://github-contributor-stats.vercel.app/api?username=nandeesh88&limit=1&theme=tokyonight&combine_all_yearly_contributions=true" height="160px"/>
-</p>
-
+  <!-- Total Commits & Repositories -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nandeesh88&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues,contribs&theme=tokyonight"
+    alt="Commits & Repos"
+    height="150px"
+  />
+</div>
 
 ---
 
