@@ -77,15 +77,6 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Streak Stats -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=nandeesh88&theme=tokyonight&hide_border=false"
-    alt="GitHub Streak"
-    height="160px"
-  />
-</p>
-
-<p align="center">
   <!-- Total Repositories / Contribution Stats -->
   <img
     src="https://github-contributor-stats.vercel.app/api?username=nandeesh88&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"
