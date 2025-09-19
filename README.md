@@ -65,12 +65,21 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nandeesh88&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://streak-stats.demolab.com?user=nandeesh88&theme=tokyonight" height="160px"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nandeesh88&show_icons=true&theme=tokyonight
+    alt="GitHub Stats"
+    height="160px"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&token=YOUR_TOKEN"
+    alt="Top Languages"
+    height="160px"
+  />
 </p>
+
 
 ---
 
