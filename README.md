@@ -68,12 +68,32 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- Overall GitHub Stats (includes commits & private counts) -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=nandeesh88&show_icons=true&theme=tokyonight&token=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"
+    src="https://github-readme-stats.vercel.app/api?username=nandeesh88&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"
     alt="GitHub Stats"
     height="160px"
   />
-  </p>
+</p>
+
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nandeesh88&theme=tokyonight&hide_border=false"
+    alt="GitHub Streak"
+    height="160px"
+  />
+</p>
+
+<p align="center">
+  <!-- Total Repositories / Contribution Stats -->
+  <img
+    src="https://github-contributor-stats.vercel.app/api?username=nandeesh88&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"
+    alt="Repository & Contribution Stats"
+    height="160px"
+  />
+</p>
+
 
 ---
 
