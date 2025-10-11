@@ -55,12 +55,19 @@
 
 | Project | Description |
 |--------|-------------|
+## 🚀 Project Showcase
+
+| Project | Description |
+|----------|--------------|
+| 🔗 [**Serverless Image Processor**](https://github.com/nandeesh88/serverless-image-processor) | Serverless image pipeline using AWS Lambda, DynamoDB and S3. |
 | 🔗 [**Cloud‑Hosted AI Chatbot**](https://github.com/nandeesh88/Cloud-Sheet-Data-Chatbot) | Chatbot using Flask + Google Sheet API, hosted on AWS EC2 |
+| 🔗 [**AI-Powered Health Portal**](https://github.com/nandeesh88/Ai-Powered-Health-Portal) | AI-driven health assistant for symptom checks and guidance. |
 | 🔗 [**CAPTCHA Authentication System**](https://github.com/nandeesh88/captcha-authentication-system) | Frontend form with JavaScript-based CAPTCHA validation |
 | 🔗 [**Flask-Info-App-Docker**](https://github.com/nandeesh88/Flask-Info-App-Docker) | Dockerized Flask web application with HTML pages and JSON API endpoints |
 | 🔗 [**Social Metrics Intelligence**](https://github.com/nandeesh88/social-media-trends-analysis) | Engagement trend analysis using Python, Pandas, Power BI |
 | 🔗 [**Zepto Sales & Operations Analysis**](https://github.com/nandeesh88/zepto-data-insights-sql) | SQL + Python insights from Zepto delivery datasets |
 | 🔗 [**HR Analytics Dashboard**](https://github.com/nandeesh88/HR-Anlytics-Dashboard) | Interactive HR data dashboard using Power BI |
+| 🔗 [**Travel Booking Form**](https://github.com/nandeesh88/travel-booking-form) | Responsive travel booking form built with HTML, CSS & JS. |
 
 
 ---
