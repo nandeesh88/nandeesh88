@@ -51,9 +51,6 @@
 
 ---
 
-## 🚀 Projects Showcase
-
-| Project | Description |
 |--------|-------------|
 ## 🚀 Project Showcase
 
