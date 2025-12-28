@@ -71,7 +71,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nandeesh88&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=nandeesh88&show_icons=true&theme=tokyonight"
     height="170"
   />
 </div>
