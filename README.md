@@ -71,8 +71,8 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=nandeesh88&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=1800"
-    height="160"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nandeesh88&show_icons=true&theme=tokyonight"
+    height="170"
   />
 </div>
 
