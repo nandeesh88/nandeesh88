@@ -67,16 +67,12 @@
 
 
 ---
-
 ## 📊 GitHub Stats
 
-<div align="center" style="border:2px solid #444;padding:10px;border-radius:12px;">
-  
-  <!-- Total Commits & Repositories -->
+<div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=nandeesh88&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues,contribs&theme=tokyonight"
-    alt="Commits & Repos"
-    height="150px"
+    src="https://github-readme-stats.vercel.app/api?username=nandeesh88&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=1800"
+    height="160"
   />
 </div>
 
