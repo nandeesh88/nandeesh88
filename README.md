@@ -69,7 +69,6 @@
 | 🔗 [**Flask-Info-App-Docker**](https://github.com/nandeesh88/Flask-Info-App-Docker) | Dockerized Flask web application with HTML pages and JSON API endpoints |
 | 🔗 [**CAPTCHA Authentication System**](https://github.com/nandeesh88/captcha-authentication-system) | Frontend form with JavaScript-based CAPTCHA validation |
 | 🔗 [**Zepto Sales & Operations Analysis**](https://github.com/nandeesh88/zepto-data-insights-sql) | SQL + Python insights from Zepto delivery datasets |
-| 🔗 [**HR Analytics Dashboard**](https://github.com/nandeesh88/HR-Anlytics-Dashboard) | Interactive HR data dashboard using Power BI |
 | 🔗 [**Travel Booking Form**](https://github.com/nandeesh88/travel-booking-form) | Responsive travel booking form built with HTML, CSS & JS |
 
 ---
