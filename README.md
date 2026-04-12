@@ -5,11 +5,11 @@
 
 ## 💡 About Me
 
-🎓 B.Tech CS Student who loves turning ideas into deployed, real-world products
-☁️ From serverless pipelines to AI chatbots — I build and ship on AWS & GCP
-🤖 Exploring the AI space through LLM integration, RAG & agent development
-🌐 Full-stack developer comfortable across React, Flask, Django & REST APIs
-📍 Bangalore | Open to Cloud, DevOps & AI Engineering roles
+🎓 B.Tech Computer Science Student based in Bangalore
+🔍 Passionate about Cloud Computing, Full-Stack Development & AI Integration
+⚙️ Building cloud-native apps on AWS & GCP, containerized deployments with Docker,
+    and AI-powered solutions using LLMs like Claude & Gemini
+🚀 Open to opportunities in Cloud DevOps, Web Development & AI Engineering
 
 ---
 
