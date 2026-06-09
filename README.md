@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Nandeesh Kuruba</h1>
-<h3 align="center">Computer Science Student | Cloud & AI Enthusiast</h3>
+<h3 align="center">Software Developer | Cloud & AI Enthusiast</h3>
 
 ---
 
