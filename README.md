@@ -6,7 +6,7 @@
 ## 💡 About Me
 
 🎓 Computer Science Graduate based in Bangalore
-🔍 Skilled in Cloud Computing, Full-Stack Development & AI Integration
+🔍 Skilled in Cloud Computing, Full-Stack Development and AI Integration
 ⚙️ Building cloud-native apps on AWS & GCP, containerized deployments with Docker,
     and AI-powered solutions using LLMs like Claude & Gemini
 🚀 Open to opportunities in Cloud DevOps, Web Development & AI Engineering
